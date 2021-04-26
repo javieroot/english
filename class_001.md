@@ -1,15 +1,10 @@
-## Introducction
-
-This notes is English course. I will put a summary of themes to view in classes:
-
-
 ## Basic questions
 
 ### Questions for class
 
-![Sin titulo](imagenes/class.jpg)
+![](imagenes/class.jpg)
 
-![Sin titulo](imagenes/class2.jpg)
+![](imagenes/class2.jpg)
 
 
 ### Questions for meetings
