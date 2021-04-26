@@ -66,7 +66,7 @@ D: Then .... mmm! This is all from me in this moment but if you need something d
 D: In any time I will back for you to present all team\
 D: If you don't take the induction course RH personal to you search for that\
 J: Excelent Diana! Thank you. Your help is a good init for me\
-D: Welcome to the new "home"\
+D: Welcome to the new "Home"\
 J: Thaks all!\
 D: See you later Javier\
 J: See you later Diana 
