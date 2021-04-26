@@ -74,4 +74,4 @@ J: Excelent Diana! Thank you. Your help is a good init for me\
 D: Welcome to the new "home"\
 J: Thaks all!\
 D: See you later Javier\
-J: See you later Diana ***She is a girl very nice***
+J: See you later Diana 
