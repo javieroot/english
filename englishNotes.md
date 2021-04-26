@@ -14,6 +14,9 @@ This notes is English course. I will put a summary of themes to view in classes:
 Questions for class
 
 ![][imagenes/imagen1.png]
+
+![Sin titulo](imagenes/imagen1.png)
+
 ![][./imagenes/class.jpg]
 
 ![][/imagenes/class2.jpg]
