@@ -1,9 +1,3 @@
----
-title: "Apuntes de inglés"
-output: html_document
----
-
-
 ## Introducction
 
 This notes is English course. I will put a summary of themes to view in classes:
@@ -11,28 +5,27 @@ This notes is English course. I will put a summary of themes to view in classes:
 
 ## Basic questions
 
-Questions for class
-
-![][imagenes/imagen1.png]
-
-![Sin titulo](imagenes/imagen1.png)
+### Questions for class
 
 ![Sin titulo](imagenes/class.jpg)
 
-![ ][imagenes/class.jpg]
-
-![][/imagenes/class2.jpg]
+![Sin titulo](imagenes/class2.jpg)
 
 
-Questions for meetings
+### Questions for meetings
+
+![](imagenes/meetings.jpg)
 
 
-![][imagenes/meetings.jpg]
+### Questions for greetings
 
-Questions for greetings
+![][imagenes/greetings.jpg]
 
+
+### Questions for farewell
 
 ![][imagenes/farewell.jpg]
 
-Questions for farewell
+## Homework
+
 
