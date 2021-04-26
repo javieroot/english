@@ -30,9 +30,9 @@ This notes is English course. I will put a summary of themes to view in classes:
 
 You write a conversation for your first day in a new job.
 
-J: Hi! my name is Javier. What is your name?
-D: Hi! Javier. My name is Diana. Nice to meet you.
-J: Nice to meet you too
+J: Hi! my name is Javier. What is your name?\
+D: Hi! Javier. My name is Diana. Nice to meet you.\
+J: Nice to meet you too\
 D: Are you a new employed?
 J: Yes, I'll be in the Data Analysis area. What is the area in your job?
 D: Very well! We are to work in same area.
