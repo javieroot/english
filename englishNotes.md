@@ -17,7 +17,7 @@ Questions for class
 
 ![Sin titulo](imagenes/imagen1.png)
 
-![][./imagenes/class.jpg]
+![ ][imagenes/class.jpg]
 
 ![][/imagenes/class2.jpg]
 
