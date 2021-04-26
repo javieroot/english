@@ -15,7 +15,7 @@ Questions for class
 
 ![][./imagenes/class.jpg]
 
-![][imagenes/class2.jpg]
+![][/imagenes/class2.jpg]
 
 
 Questions for meetings
