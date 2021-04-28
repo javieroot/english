@@ -1,7 +1,5 @@
 ## Numbers
 
-Exists two types of numbers:
-
     * Cardinals. This numbers is used to calculations.
      
       The numbers 1 to 12:
@@ -57,7 +55,7 @@ Exists two types of numbers:
       60,000,000 Sixty million
       1,590,572 One million, five hundred and ninety thousand, five hundred and seventy-two
 
-      * Ordinals. This numbers is used to in lists or stabilish an order
+    * Ordinals. This numbers is used to in lists or stabilish an order
       Se forman añadiendo la terminación -th al cardinal, excepto si es 1, 2 o 3,
       caso en el que se añade -st, -nd y -rd respectivamente.
 
@@ -66,7 +64,7 @@ Exists two types of numbers:
       thirty-second – 32nd
       ninety-third – 93rd
 
-      * Fracciones
+    * Fracciones
       Las fracciones se leen de la siguiente manera: el numerador se lee como el 
       número cardinal y el denominador se lee como el ordinal +"s" al final, 
       haciéndolo plural. Por ejemplo:
@@ -79,21 +77,20 @@ Exists two types of numbers:
 
       Las excepciones a esta regla son probablemente las fracciones más usadas:
 
-½ – one half (en plural, halves)
+      ½ – one half (en plural, halves)
 
-    ¼ – one quarter
+      ¼ – one quarter
 
     * Decimales
+      Los decimales se leen diciendo point entre el número entero y los que siguen
+      al punto. Además ten en cuenta que se enumeran uno por uno:
 
-    Los decimales se leen diciendo point entre el número entero y los que siguen
-    al punto. Además ten en cuenta que se enumeran uno por uno:
-
-1.25 – one point two five (en español diríamos uno punto veinticinco)
-    6.766 – six point seven six six
-    3.5649 – three point five six four nine
+      1.25 – one point two five (en español diríamos uno punto veinticinco)
+      6.766 – six point seven six six
+      3.5649 – three point five six four nine
 
     * Porcentajes
-    Tan solo hay que añadir percent después del número
+      Tan solo hay que añadir percent después del número
 
     25% – twenty five percent
     3.65% – three point six five percent
@@ -172,15 +169,15 @@ Exists two types of numbers:
 
     * Escribir con letra los números:
 
-    1. 865,852,895: Eight hundred and sixty-five million, eight hundred and fifty-two thousand, eight hundred and ninety-five
-    2. 325,546:     Three hundred and twenty-five thousand, five hundred and forty-six
-    3. 564,622,525: Five hundred and sixty-four million, six hundred and twenty-two thousand, five hundred and twenty-five
-    4. 120,003,045: One hundred and twenty million, three thousand, forty-five
-    5. 464,000,001: Four hundred and sixty-four million, one
+        1. 865,852,895: Eight hundred and sixty-five million, eight hundred and fifty-two thousand, eight hundred and ninety-five
+        2. 325,546:     Three hundred and twenty-five thousand, five hundred and forty-six
+        3. 564,622,525: Five hundred and sixty-four million, six hundred and twenty-two thousand, five hundred and twenty-five
+        4. 120,003,045: One hundred and twenty million, three thousand, forty-five
+        5. 464,000,001: Four hundred and sixty-four million, one
 
 
 
-* Contestar el ejercicio de la imagen:
+    * Contestar el ejercicio de la imagen:
 
-![](imagenes/prepositionsTime-HW.jpg)
+   ![](imagenes/prepositionsTime-HW.jpg)
 
