@@ -200,7 +200,7 @@ Another way of seeing it:
         4. 120,003,045: One hundred twenty millions, three thousand, forty-five
         5. 464,000,001: Four hundred sixty-four millions, one
 
-
+     La coma puede omitirse
 
     * Contestar el ejercicio de la imagen:
 

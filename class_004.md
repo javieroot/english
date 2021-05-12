@@ -4,9 +4,9 @@ Hablar de una persona famosa, de su vida cotidiana en presente simple:
 
 1. Elon Musk get up at 7:00 A.M. o'clock 
 2. He sleeps 6 hours by night
-3. He usually don't have breakfast but occassionally he breakfast coffee and omelette
+3. He usually dosen't has breakfast but seldom he has breakfast coffee and omelette
 4. For he the most important is take a shower 
-5. He have a agenda divided by 5 minutes 
+5. He has a agenda divided by 5 minutes 
 6. He works between 85 and 100 hours by week 
 7. Elon is in Los Angeles in SpaceX on Mondays and Fridays 
 8. He is in Bahia de California on Tuesdays to Thursdays in Tesla

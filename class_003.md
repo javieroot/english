@@ -61,7 +61,7 @@ Se debe considerar:\
 
 ## Homework
 
-* Mencionar el lugar doden se encuantan los siguientes objetos:
+* Mencionar el lugar donde se encuentran los siguientes objetos:
     1. Cushion
     
     ![](homework/Cushion.jpg)
@@ -133,7 +133,7 @@ Se debe considerar:\
     
     ![](homework/directions2.jpg)
     
-       Go to the Gustavo Baz Avenue, across it and go straight on, across 5 de mayo street and go straight and
+       Go to the Gustavo Baz Avenue, go across it and go straight on, cross 5 de mayo street and go straight and
        turn right in the corner, It is here Oxxo
 
     3. Grocery Store
@@ -147,8 +147,8 @@ Se debe considerar:\
     
     ![](homework/directions4.jpg)
     
-      Across Isabel la Católica street and go to the Gustavo Baz Avenue, in the corner turn left and go on 
-      Gustavo Baz, go past and acroos 2 streets, across Gustavo Baz Avenue and before go fork in the road
+      Cross Isabel la Católica street and go to the Gustavo Baz Avenue, in the corner turn left and go on 
+      Gustavo Baz, go past and acroos 2 streets, cross Gustavo Baz Avenue and before go fork in the road
       here fuel station 
     
     5. Supermarket
@@ -162,9 +162,9 @@ Se debe considerar:\
     
     ![](homework/directions6.jpg)
     
-      Across Isabel la Católica street and go to the Gustavo Baz Avenue, in the corner turn left
-      and go on Gustavo Baz, go past and acroos 2 streets, across Gustavo Baz Avenue and go past fuel
-      station, go fork in the road, turn right and newly go stright on Periférico, go past Primero de
+      go across Isabel la Católica street and go to the Gustavo Baz Avenue, in the corner turn left
+      and go on Gustavo Baz, go past and acroos 2 streets, cross Gustavo Baz Avenue and go past fuel
+      station, go fork in the road, turn right and again go stright on Periférico, go past Primero de
       mayo Avenue and Calzada San Esteban, go Crossroad, turn left, go past Plaza Torea, go straight
-      in the corner turn left, past Pericentro, across Periférico and here Cinepolis
+      in the corner turn left, past Pericentro, cross Periférico and here Cinepolis
     
